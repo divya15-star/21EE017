@@ -1,0 +1,47 @@
+body{
+    background:linear-gradient(90deg,pink,purple,red);
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+h1{
+    color: aliceblue;
+    text-shadow: 5px 5px 5px rgb(red, green, blue);
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+li1{
+    font-size: xx-large;
+    color: aliceblue ;
+    font-style: oblique;
+}
+li2{
+    font-size: xx-large;
+    color: aliceblue;
+    font-style: oblique;
+}
+li3{
+    font-size: xx-large;
+    color: aliceblue;
+    font-style: oblique;
+}
+li4{
+    font-size: xx-large;
+    color: aliceblue;
+    font-style: oblique;
+}
+li5{
+    font-size: xx-large;
+    color: aliceblue;
+    font-style: oblique;
+}
+li6{
+    font-size: xx-large;
+    color: aliceblue;
+    font-style: oblique;
+}
+li6{
+    font-size: xx-large;
+    color: aliceblue;
+    font-style: oblique;
+}
